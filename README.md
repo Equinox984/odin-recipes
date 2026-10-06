@@ -1,3 +1,3 @@
-# This is my First Repo With Odin Project!
+# Odin Recipes
 
-## HIIII
+### Simple webpage to practice HTML foundation skills.
